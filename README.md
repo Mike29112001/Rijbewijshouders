@@ -1,6 +1,6 @@
-# Rijbewijshouders en slagingspercentages CBR (2024)
-In deze Notebook analyseren we het aantal rijbewijshouders in Nederland over de afgelopen 10 jaar (2014-2024), verdeeld over verschillende voertuigcategorieën. De data is afkomstig van het CBR (Centraal Bureau Rijvaardigheidsbewijzen).
+# Driving license holders and CBR pass rates (2024)
+In this Notebook we analyze the number of driving license holders in the Netherlands over the past 10 years (2014-2024), divided over different vehicle categories. The data comes from the CBR (Central Bureau for Driving Licenses).
 
-Daarnaast vergelijken we de slaagpercentages van de verschillende praktijkexamenlocaties van het CBR. Hierbij onderzoeken we welke locaties als moeilijk, gemiddeld of relatief eenvoudig worden beschouwd op basis van de behaalde resultaten.
+In addition, we compare the pass rates of the various practical exam locations of the CBR. We investigate which locations are considered difficult, average or relatively easy based on the results achieved.
 
-Deze analyses geven inzicht in trends en regionale verschillen in rijvaardigheid en examenresultaten.
+These analyses provide insight into trends and regional differences in driving skills and exam results.
