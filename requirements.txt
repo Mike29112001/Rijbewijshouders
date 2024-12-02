@@ -1,0 +1,6 @@
+﻿jupyter==1.0.0
+notebook==2.0.0
+pandas==2.2.1
+folium==0.18.0
+matplotlib==3.8.4
+numpy==1.26.4
